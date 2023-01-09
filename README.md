@@ -9,4 +9,4 @@ Resourses: textures and music from Minecraft.
 Build link: https://drive.google.com/file/d/1vwF1oUgO7UAZSqEQNlOmojARYTAEpA9r/view   
 Check my other works here: https://vk.com/meso_tests_bot
 
-![Screenshot](/screenshots/3-in-row-scrsht.png "game screenshot")
+![Screenshot](/screenshots/3-in-row-scrsht.jpg "game screenshot")
