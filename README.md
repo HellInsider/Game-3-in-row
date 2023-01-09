@@ -1,6 +1,6 @@
 # Game-3-in-row
 
-Game of genre 3 in row in Minecraft setting.
+Game of genre 3 in row in Minecraft setting.   
 Implemented main mechanics and bonuses.   
 
 Stack: C++, SFML.   
